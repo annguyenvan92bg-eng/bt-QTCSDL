@@ -52,6 +52,7 @@
 - Kết quả thành công
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a43409c-ca23-426e-82d5-ea4c051dbe52" />
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdf03b5b-e795-44ef-8e8e-29682e76c666" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a4b491e8-2caf-447c-98e8-5ceb427d7b1a" />
 
 
 
