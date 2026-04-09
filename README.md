@@ -32,12 +32,28 @@
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3f24655-9569-46b5-9cdb-f21f02c1441b" />
 7. Tạo bảng dữ liệu(các trường dữ liệu phù hợp) với khóa chính là trường masv
 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/07dd8775-8442-43d1-93ba-ef0822f217f4" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1de926d3-93ce-4695-8792-5e65ee60ff81" />
+
  *Sau khi hoàn tất lưu và đặt tên bảng
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a15ad40a-3c77-44d5-ac5f-9e05a4485687" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a71755e9-96c8-4198-856a-5b9e7dce1333" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b07d169e-86e5-48fa-98f8-bf6d8a8ea8d8" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/03c78436-a128-4d97-b549-e62daf8858e9" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/63b4a137-7d05-426a-8792-04a58103baa8" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b616eacc-ec16-4189-afff-ba4c74caee54" />
+
+ 8. Import dữ liệu từ file mẫu
+ - Dùng Import Flat File
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/626504e4-78d7-4b6d-962c-7245245c9ef7" />
+ - Thêm file mẫu 
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/0e06104f-4e44-4f85-9ae3-bdc87212cff1" />
+ - Chỉnh sửa các thuộc tính cho phù hợp
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6315a87-e6f9-4db1-814b-f02fcf67323c" />
+ - Kiểm tra số dòng của dữ liệu đã import (kết quả 12004 dòng)
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/68e4549a-aa79-48cf-b421-32c97aa31a46" />
+
+9. Insert 1 row vào bảng với dữ liệu là thông tin cá nhân của sv đang làm bài
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b416767a-50fb-4571-8385-8deb6faccedf" />
+- Kết quả thành công
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a43409c-ca23-426e-82d5-ea4c051dbe52" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdf03b5b-e795-44ef-8e8e-29682e76c666" />
+
+
+
+
 
