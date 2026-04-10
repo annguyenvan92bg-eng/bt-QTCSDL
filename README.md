@@ -77,6 +77,8 @@
  - Kết quả dữ liệu đã khôi phục thành công
 <img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 194951" src="https://github.com/user-attachments/assets/656023fc-7ff9-4e1c-b2d7-9cc86de28d10" />
 16. Upload file dulieu.sql lên github repository
+   <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ea4fd467-b6ae-4567-bd4f-f636ee04fed8" />
+
 
 
 
