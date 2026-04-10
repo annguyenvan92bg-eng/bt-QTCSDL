@@ -51,8 +51,35 @@
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/b416767a-50fb-4571-8385-8deb6faccedf" />
 - Kết quả thành công
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a43409c-ca23-426e-82d5-ea4c051dbe52" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdf03b5b-e795-44ef-8e8e-29682e76c666" />
+
+10. Update trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL.
+
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a4b491e8-2caf-447c-98e8-5ceb427d7b1a" />
+11. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 190225" src="https://github.com/user-attachments/assets/63ee2ef2-ebae-4726-a2fa-676a82f5f8c8" />
+- Kết quả thành công
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 190343" src="https://github.com/user-attachments/assets/052d3e43-5f06-4c2f-b79d-41857de6c82e" />
+12. Delete trong bảng SaoHoa những sinh viên cùng họ với em (họ Nguyễn)
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 191058" src="https://github.com/user-attachments/assets/1bc87993-65e0-4511-b744-76457af54f95" />
+13. Xuất toàn bộ kết quả của các bước thực hiện ra file dulieu.sql sử dụng tính năng GEN SCRIPT struct+data cho database
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 191605" src="https://github.com/user-attachments/assets/89a2f3e4-50a6-44dc-98c5-f33a5bf609a6" />
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 191835" src="https://github.com/user-attachments/assets/56b77a06-d708-40de-bf40-abe3cf7d50a1" />
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 192523" src="https://github.com/user-attachments/assets/3f58b191-de0a-4a3c-a00c-dd8202e208d8" />
+- Kết quả tạo thành công file
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 193221" src="https://github.com/user-attachments/assets/f88a01f1-a706-44d3-a4e0-9c1cd60591f3" />
+14. Xoá csdl đã tạo
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 193730" src="https://github.com/user-attachments/assets/7db98af9-b6c9-43bc-9f98-2b290f81f13e" />
+ - Sau khi xóa kiểm tra path đã mất file .mdf  và _log.ldf
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 194008" src="https://github.com/user-attachments/assets/21558fc8-3703-4c68-9b83-38d6ee1d1fa5" />
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 193948" src="https://github.com/user-attachments/assets/ce318034-c6ca-408c-870e-1728e1047451" />
+15. Chạy lại file dulieu.sql
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 194908" src="https://github.com/user-attachments/assets/725c1adf-8484-4564-93ea-806877f0114c" />
+ - Kết quả dữ liệu đã khôi phục thành công
+<img width="2560" height="1600" alt="Ảnh chụp màn hình 2026-04-10 194951" src="https://github.com/user-attachments/assets/656023fc-7ff9-4e1c-b2d7-9cc86de28d10" />
+16. Upload file dulieu.sql lên github repository
+
+
+
 
 
 
